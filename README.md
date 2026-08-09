@@ -1,6 +1,6 @@
 # TriPlayer Filename Sanitizer
 
-Cleans up filenames for [TriPlayer](https://github.com/yourlink) on Nintendo Switch.
+Cleans up [TriPlayer](https://github.com/DefenderOfHyrule/TriPlayer) on Nintendo Switch.
 
 - Converts accented characters to plain ASCII (e.g., `café` → `cafe`)
 - Replaces any remaining non‑alphanumeric characters (except `._ -`) with underscores
