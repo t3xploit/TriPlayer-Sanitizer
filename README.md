@@ -1,6 +1,6 @@
 # TriPlayer Filename Sanitizer
 
-Cleans up [TriPlayer](https://github.com/DefenderOfHyrule/TriPlayer) on Nintendo Switch.
+Cleans up filenames for the nx(Nintendo Switch) homebrew music application [TriPlayer](https://github.com/DefenderOfHyrule/TriPlayer). Written for macOS/Linux only. Should also work with WSL.
 
 - Converts accented characters to plain ASCII (e.g., `café` → `cafe`)
 - Replaces any remaining non‑alphanumeric characters (except `._ -`) with underscores
