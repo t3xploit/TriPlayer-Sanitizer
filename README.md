@@ -12,5 +12,3 @@ Cleans up filenames for [TriPlayer](https://github.com/yourlink) on Nintendo Swi
 2. Run a **dry‑run** to preview changes:
    ```bash
    DRY_RUN=1 ./triplayer-sanitize.sh
-
-LICSENCE: MIT
